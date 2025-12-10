@@ -54,7 +54,7 @@ open-source communities while strengthening my core CS fundamentals.
 - ✅ Data Structures & Algorithms  
 - ✅ Backend Development (REST APIs)  
 - ✅ Database Design (PostgreSQL, SQLAlchemy)  
-- ✅ Frontend Basics (React, Tailwind CSS)  
+- ✅ Frontend(React, Tailwind CSS)  
 - ✅ Machine Learning Fundamentals  
 
 ---
