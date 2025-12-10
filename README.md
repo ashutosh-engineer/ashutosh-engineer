@@ -27,8 +27,8 @@
 I am an aspiring **Software Engineer** with a strong foundation in  
 **Data Structures & Algorithms**, backend development, and problem-solving.
 
-I enjoy building **clean, efficient backend systems** and continuously improving my
-core CS fundamentals through competitive programming and real-world projects.
+I enjoy building **clean, efficient backend systems** and actively contributing to
+open-source communities while strengthening my core CS fundamentals.
 
 - 🔧 **Languages:** Python, C++, JavaScript  
 - 🌐 **Frontend:** React, Tailwind CSS  
@@ -56,6 +56,18 @@ core CS fundamentals through competitive programming and real-world projects.
 - ✅ Database Design (PostgreSQL, SQLAlchemy)  
 - ✅ Frontend Basics (React, Tailwind CSS)  
 - ✅ Machine Learning Fundamentals  
+
+---
+
+## 🌍 Open Source Contributions
+
+- 🟢 **GirlScript Summer of Code (GSSoC)** Contributor  
+- ✅ **26+ Pull Requests merged** across multiple repositories  
+- 🔧 Contributions include bug fixes, feature implementations, and code improvements  
+- 📌 All contributions are publicly visible in my **GitHub Pull Requests history**
+
+👉 You can explore my open-source work here:  
+🔗 **GitHub Pull Requests:** https://github.com/pulls?q=is%3Apr+author%3Aashutosh-engineer
 
 ---
 
@@ -101,5 +113,5 @@ core CS fundamentals through competitive programming and real-world projects.
 ---
 
 <p align="center">
-  🚀 <i>Focused on strong fundamentals, clean backend systems, and continuous growth.</i>
+  🚀 <i>Focused on strong fundamentals, real-world impact, and meaningful open-source contributions.</i>
 </p>
