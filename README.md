@@ -13,8 +13,8 @@
 
 ## 🧠 About Me
 
-🔧 System Design | MERN Stack | DSA | Cloud (AWS, GCP, Docker)  
-🧪 Machine Learning & Deep Learning enthusiast  
+🔧 Python | C++ | DSA | React | Javascript|Tailwind| PostgreSQL,SQLAlchemy| Rest APi's|Machine Learning|AWS
+🧪 Aspiring Software Engineer 
 📍 Interning @ **NMS Softwares & Innovations India Pvt Ltd**  
 📧 **Email:** ashutoshsingh6376@gmail.com
 
@@ -24,9 +24,9 @@
 
 | Language | Purpose |
 |----------|---------|
-| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | DSA Practice |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Data Science, ML/DL |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Full-Stack Web Development |
+| ![C++](https://img.shields.io/badge/C++-007396?style=for-the-badge&logo=java&logoColor=white) | DSA Practice |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Backend Developement, Machine Learning |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Frontend |
 
 ---
 
