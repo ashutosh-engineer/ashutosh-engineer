@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashutosh-singh-7945812b2/)
 [![GitHub Followers](https://img.shields.io/github/followers/ashutosh-engineer?label=Follow&style=social)](https://github.com/nashutosh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Ashu054/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/AshutoshSingh27/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-ashutoshsingh6376-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/ashutoshsingh6376)
 
 ---
