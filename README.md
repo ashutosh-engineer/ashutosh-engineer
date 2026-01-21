@@ -6,6 +6,18 @@
 <h3 align="center">Software Engineer | Backend & DSA Focused</h3>
 
 <p align="center">
+  <img src="Google_AI_Studio_2025-08-15T22_05_14.944Z.png" alt="Banner" width="100%">
+</p>
+
+<h1 align="center">Ashutosh Singh</h1>
+<h3 align="center">Software Engineer | Backend & DSA Focused</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashutosh-singh-7945812b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Singh-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ashutosh-singh-7945812b2/">
     <img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Singh-blue?style=for-the-badge&logo=linkedin"/>
   </a>
