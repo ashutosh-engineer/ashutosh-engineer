@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="Google_AI_Studio_2025-08-15T22_05_14.944Z.png" alt="Banner" width="100%">
-</p>
 
 <h1 align="center">Ashutosh Singh</h1>
 
