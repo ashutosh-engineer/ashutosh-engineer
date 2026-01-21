@@ -3,26 +3,23 @@
 </p>
 
 <h1 align="center">Ashutosh Singh</h1>
-<h3 align="center">Software Engineer | Backend & DSA Focused</h3>
+
+<h3 align="center">
+  Software Engineer | Backend & DSA Focused
+</h3>
 
 <p align="center">
-  <img src="Google_AI_Studio_2025-08-15T22_05_14.944Z.png" alt="Banner" width="100%">
+  <i>
+    Open Source Contributor • Backend Systems • Performance & Problem Solving
+  </i>
 </p>
 
-<h1 align="center">Ashutosh Singh</h1>
-<h3 align="center">Software Engineer | Backend & DSA Focused</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ashutosh-singh-7945812b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Singh-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashutosh-singh-7945812b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Singh-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ashutosh-engineer">
-    <img src="https://img.shields.io/badge/GitHub-ashutosh--engineer-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-ashutosh--engineer-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://leetcode.com/u/AshutoshSingh27/">
     <img src="https://img.shields.io/badge/LeetCode-AshutoshSingh27-orange?style=for-the-badge&logo=leetcode"/>
@@ -37,21 +34,21 @@
 ## 🧠 About Me
 
 I am an aspiring **Software Engineer** with a strong foundation in  
-**Data Structures & Algorithms**, backend development, and problem-solving.
+**Data Structures & Algorithms**, backend development, and system-level problem solving.
 
-I enjoy building **clean, efficient backend systems** and actively contributing to
-open-source communities while strengthening my core CS fundamentals.
+I enjoy building **clean, efficient backend systems**, working with databases, and
+contributing to **open-source projects** while continuously strengthening my CS fundamentals.
 
-- 🔧 **Languages:** Python, C++, JavaScript  
-- 🌐 **Frontend:** React, Tailwind CSS  
+- 🔧 **Languages:** C++, Python, JavaScript  
 - 🗄️ **Backend:** REST APIs, PostgreSQL, SQLAlchemy  
+- 🌐 **Frontend:** React, Tailwind CSS  
 - 🤖 **Machine Learning:** Fundamentals & applied projects  
-- 📍 **Intern:** *NMS Softwares & Innovations India Pvt Ltd*  
+- 🏢 **Intern:** *NMS Software & Innovations India Pvt. Ltd.*  
 - 📧 **Email:** ashutoshsingh6376@gmail.com  
 
 ---
 
-## 💻 Languages & Usage
+## 💻 Languages & Primary Usage
 
 | Language | Primary Use |
 |--------|-------------|
@@ -66,7 +63,7 @@ open-source communities while strengthening my core CS fundamentals.
 - ✅ Data Structures & Algorithms  
 - ✅ Backend Development (REST APIs)  
 - ✅ Database Design (PostgreSQL, SQLAlchemy)  
-- ✅ Frontend(React, Tailwind CSS)  
+- ✅ Frontend Development (React, Tailwind CSS)  
 - ✅ Machine Learning Fundamentals  
 
 ---
@@ -75,11 +72,11 @@ open-source communities while strengthening my core CS fundamentals.
 
 - 🟢 **GirlScript Summer of Code (GSSoC)** Contributor  
 - ✅ **26+ Pull Requests merged** across multiple repositories  
-- 🔧 Contributions include bug fixes, feature implementations, and code improvements  
-- 📌 All contributions are publicly visible in my **GitHub Pull Requests history**
+- 🔧 Contributions include backend features, optimizations, and bug fixes  
+- 📌 All contributions are publicly visible in my GitHub PR history  
 
-👉 You can explore my open-source work here:  
-🔗 **GitHub Pull Requests:** https://github.com/pulls?q=is%3Apr+author%3Aashutosh-engineer
+🔗 **GitHub Pull Requests:**  
+https://github.com/pulls?q=is%3Apr+author%3Aashutosh-engineer
 
 ---
 
@@ -95,7 +92,7 @@ open-source communities while strengthening my core CS fundamentals.
 
 ---
 
-## 🔗 Profiles & Competitive Programming
+## 🔗 Competitive Programming Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/AshutoshSingh27/">
@@ -108,17 +105,17 @@ open-source communities while strengthening my core CS fundamentals.
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let’s Connect
 
 <p align="center">
   <a href="https://ashutoshsingh.me">
     <img src="https://img.shields.io/badge/Portfolio-ashutoshsingh.me-24292e?style=for-the-badge&logo=vercel"/>
   </a>
   <a href="mailto:ashutoshsingh6376@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ashutoshsingh6376@gmail.com-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-ashutoshsingh6376@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ashutosh-singh-7945812b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let’s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
