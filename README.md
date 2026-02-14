@@ -37,7 +37,7 @@ I enjoy building **clean, efficient backend systems**, working with databases, a
 contributing to **open-source projects** while continuously strengthening my CS fundamentals.
 
 - 🔧 **Languages:** C++, Python, JavaScript  
-- 🗄️ **Backend:** REST APIs, PostgreSQL, SQLAlchemy  
+- 🗄️ **Backend:** REST APIs,SQL,Microsoft SQl Server,Mongodb,Node.js,Express.js 
 - 🌐 **Frontend:** React, Tailwind CSS  
 - 🤖 **Machine Learning:** Fundamentals & applied projects  
 - 🏢 **Intern:** *NMS Software & Innovations India Pvt. Ltd.*  
@@ -50,8 +50,8 @@ contributing to **open-source projects** while continuously strengthening my CS 
 | Language | Primary Use |
 |--------|-------------|
 | **C++** | Data Structures & Algorithms |
-| **Python** | Backend Development, Machine Learning |
-| **JavaScript** | Frontend Development |
+| **Python** |Machine Learning |
+| **JavaScript** | Frontend Development,Backend Developement|
 
 ---
 
