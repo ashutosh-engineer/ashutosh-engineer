@@ -21,8 +21,11 @@
   <a href="https://leetcode.com/u/AshutoshSingh27/">
     <img src="https://img.shields.io/badge/LeetCode-AshutoshSingh27-orange?style=for-the-badge&logo=leetcode"/>
   </a>
-  <a href="https://codeforces.com/profile/ashutoshsingh6376">
-    <img src="https://img.shields.io/badge/Codeforces-ashutoshsingh6376-1f8acb?style=for-the-badge&logo=codeforces"/>
+  <a href="https://codeforces.com/profile/ashutosh4dec">
+    <img src="https://img.shields.io/badge/Codeforces-ashutosh4dec-1f8acb?style=for-the-badge&logo=codeforces"/>
+  </a>
+  <a href="https://www.codechef.com/users/ashutosh_2120">
+    <img src="https://img.shields.io/badge/CodeChef-ashutosh__2120-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
@@ -36,10 +39,11 @@ I am an aspiring **Software Engineer** with a strong foundation in
 I enjoy building **clean, efficient backend systems**, working with databases, and
 contributing to **open-source projects** while continuously strengthening my CS fundamentals.
 
-- 🔧 **Languages:** C++, Python, JavaScript  
-- 🗄️ **Backend:** REST APIs,SQL,Microsoft SQl Server,Mongodb,Node.js,Express.js 
-- 🌐 **Frontend:** React, Tailwind CSS  
-- 🤖 **Machine Learning:** Fundamentals & applied projects  
+- 🔧 **Languages:** C++, Python  
+- 🗄️ **Backend:** Flask, REST APIs, SQL, PostgreSQL, MongoDB  
+- 🤖 **ML / DL:** Machine Learning, Deep Learning  
+- ☁️ **Cloud & DevOps:** AWS, Docker  
+- 🏆 **CP:** DSA, Competitive Programming  
 - 🏢 **Intern:** *NMS Software & Innovations India Pvt. Ltd.*  
 - 📧 **Email:** ashutoshsingh6376@gmail.com  
 
@@ -49,26 +53,26 @@ contributing to **open-source projects** while continuously strengthening my CS 
 
 | Language | Primary Use |
 |--------|-------------|
-| **C++** | Data Structures & Algorithms |
-| **Python** |Machine Learning |
-| **JavaScript** | Frontend Development,Backend Developement|
+| **C++** | Data Structures & Algorithms, Competitive Programming |
+| **Python** | Backend Development (Flask), Machine Learning, Deep Learning |
 
 ---
 
 ## 🧠 Core Skills
 
-- ✅ Data Structures & Algorithms  
-- ✅ Backend Development (REST APIs)  
-- ✅ Database Design (PostgreSQL, SQLAlchemy)  
-- ✅ Frontend Development (React, Tailwind CSS)  
-- ✅ Machine Learning Fundamentals  
+- Data Structures & Algorithms  
+- Competitive Programming  
+- Backend Development with Flask (REST APIs)  
+- Machine Learning & Deep Learning  
+- Cloud Infrastructure (AWS)  
+- Containerization (Docker)  
 
 ---
 
 ## 🌍 Open Source Contributions
 
 - 🟢 **GirlScript Summer of Code (GSSoC)** Contributor  
-- ✅ **26+ Pull Requests merged** across multiple repositories  
+- **26+ Pull Requests merged** across multiple repositories  
 - 🔧 Contributions include backend features, optimizations, and bug fixes  
 - 📌 All contributions are publicly visible in my GitHub PR history  
 
@@ -95,8 +99,11 @@ https://github.com/pulls?q=is%3Apr+author%3Aashutosh-engineer
   <a href="https://leetcode.com/u/AshutoshSingh27/">
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode"/>
   </a>
-  <a href="https://codeforces.com/profile/ashutoshsingh6376">
+  <a href="https://codeforces.com/profile/ashutosh4dec">
     <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-1f8acb?style=for-the-badge&logo=codeforces"/>
+  </a>
+  <a href="https://www.codechef.com/users/ashutosh_2120">
+    <img src="https://img.shields.io/badge/CodeChef-ashutosh__2120-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
