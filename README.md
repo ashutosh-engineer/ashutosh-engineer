@@ -87,7 +87,7 @@ I'm an aspiring **Software Engineer** with a strong foundation in **Data Structu
 | Domain | Skills |
 |:------:|:-------|
 | 🏗️ **Backend** | Flask · REST APIs · SQL · Database Design |
-| 🗄️ **Databases** | PostgreSQL · MongoDB · MySQL · SQL Server |
+| 🗄️ **Databases** | PostgreSQL · SQL Server |
 | 🤖 **ML / DL** | Machine Learning · Deep Learning |
 | ☁️ **Cloud & DevOps** | AWS · Docker |
 | 🏆 **CP & DSA** | Data Structures & Algorithms · Competitive Programming |
