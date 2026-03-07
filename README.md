@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Ashutosh Singh 👋</h1>
 
-<h3 align="center">Software Engineer | Backend & DSA Focused</h3>
+<h3 align="center">Software Engineer | Backend Developement & DSA Focused</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Competitive+Programmer;ML+%26+Deep+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
@@ -61,8 +61,6 @@ I'm an aspiring **Software Engineer** with a strong foundation in **Data Structu
 ### ML / DL
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
 
 ### Cloud & DevOps
 <p>
@@ -86,9 +84,9 @@ I'm an aspiring **Software Engineer** with a strong foundation in **Data Structu
 
 | Domain | Skills |
 |:------:|:-------|
-| 🏗️ **Backend** | Flask · REST APIs · SQL · Database Design |
-| 🗄️ **Databases** | PostgreSQL · SQL Server |
-| 🤖 **ML / DL** | Machine Learning · Deep Learning |
+| 🏗️ **Backend** | Flask · REST APIs · SQL · Database Design |Real-time Systems|
+| 🗄️ **Databases** |SQL Server |
+| 🤖 **ML / DL** | Machine Learning|
 | ☁️ **Cloud & DevOps** | AWS · Docker |
 | 🏆 **CP & DSA** | Data Structures & Algorithms · Competitive Programming |
 
