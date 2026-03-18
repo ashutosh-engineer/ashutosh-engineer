@@ -112,6 +112,8 @@ I'm an aspiring **Software Engineer** with a strong foundation in **Data Structu
 | **Vadodara Hackathon 6.0** | 🥇 Winner — [View Post](https://www.linkedin.com/posts/ashutosh-singh-7945812b2_vadodarahackathon-hackathonwinner-teamechelon-activity-7377302932041551872-kXsw) |
 | **PU Code Hackathon 2.0** | 🥇 Winner — [View Post](https://www.linkedin.com/posts/ashutosh-singh-7945812b2_hackathon-pucodehackathon-paruluniversity-activity-7280561628167786496-8ecS) |
 | **Vadodara Hackathon 5.0** | 🏅 Finalist |
+| **PU-CODE Hackathon 3.0** | 🏅Winner — [View Post](https://www.linkedin.com/posts/ashutosh-singh-7945812b2_participated-in-pucode-30-hackathon-where-activity-7421046706429079552-S7gb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsw7yABFMLGn97_47RLfE7yFRaibZf-JX0) |
+| **Tech Expo** | 🏅 Finalist |
 
 ---
 
