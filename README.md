@@ -92,6 +92,38 @@ I'm an aspiring **Software Engineer** with a strong foundation in **Data Structu
 
 ---
 
+---
+
+## 🚀 Projects
+
+### 🔹 Collaborative Task Management Platform
+
+- Designed scalable system architecture using HLD and LLD principles  
+- Implemented JWT-based authentication with role-based access control (RBAC)  
+- Integrated two-factor authentication (2FA) for enhanced security  
+- Built real-time task updates using Socket.IO for instant synchronization  
+- Used Redis Pub/Sub for efficient real-time communication  
+- Developed REST APIs using Flask and PostgreSQL  
+- Implemented asynchronous processing using Celery and Redis  
+- Handled background jobs such as notifications and heavy tasks  
+- Applied security measures including input validation and rate limiting  
+- Containerized application using Docker and set up CI/CD with GitHub Actions  
+
+---
+
+### 🔹 Intelligent IT Operations Assistant (RAG-based)
+
+- Built an AI-powered system using retrieval-augmented generation (RAG)  
+- Enabled natural language querying for incident data analysis  
+- Implemented semantic search using vector embeddings with ChromaDB  
+- Developed root cause analysis for identifying incident patterns  
+- Integrated anomaly detection for detecting unusual trends  
+- Designed backend using FastAPI and interface using Streamlit  
+- Integrated MLflow for experiment tracking and model management  
+- Containerized application using Docker for scalable deployment  
+
+---
+
 ## 🌍 Open Source Contributions
 
 | | |
