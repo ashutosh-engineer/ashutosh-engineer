@@ -125,8 +125,6 @@ A neuro-symbolic framework for resource-constrained autonomous LLM agents that c
 - GitHub: https://github.com/ashutosh-engineer
 - LinkedIn: https://www.linkedin.com/in/ashutosh-singh-7945812b2/
 - LeetCode: https://leetcode.com/u/AshutoshSingh27/
-- Codeforces: https://codeforces.com/profile/ashutosh4dec
-- CodeChef: https://www.codechef.com/users/ashutosh_2120
 
 ---
 
